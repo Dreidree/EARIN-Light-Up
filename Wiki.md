@@ -146,9 +146,14 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
-```
+```A black cell may have a number on it from 0 to 4 i, indicating how many bulbs must be placed adjacent to its four sides for example cell with number 3 must have 3 bulbs placed adjacent to its sides, and a cell with 0 cannoct have a bulb ext to any of its sides.
+An unnumered black cell may have any number of bulbs near. 
+
+### Solution methods
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzAxMzc0OCwtMTQ4MTE0NTk1NSwtMT
-AzODc3MDEwMCw0NzIwMjk4MDMsNTc1NzUxNzgwLDIwMzcwOTAz
-MzgsLTI3OTA0MjM1MV19
+eyJoaXN0b3J5IjpbNDI3MDMyNjM0LDE4MTMwMTM3NDgsLTE0OD
+ExNDU5NTUsLTEwMzg3NzAxMDAsNDcyMDI5ODAzLDU3NTc1MTc4
+MCwyMDM3MDkwMzM4LC0yNzkwNDIzNTFdfQ==
 -->
