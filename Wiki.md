@@ -12,11 +12,11 @@ An unnumered black cell may have any number of bulbs near.
 
 ### Solution methods
 
-A standard approach is firstly to put bulbs around cell with number 4 or smaller but surrander with andother walls - places where is only one configuration, after that other cells with numbers are taken under considera
+A standard approach is firstly to put bulbs around cell with number 4 or smaller but surrander with andother walls - places where is only one configuration, after that other cells with numbers are taken under consideration. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTA5MDEyMzIsNzc0MzEzMDc4LDExNT
-YxNTE0NTEsMTUyOTQyMDY0OCwtMTU5OTg3MjMxMCwtODIyNTk2
-OTUyLDE4MTMwMTM3NDgsLTE0ODExNDU5NTUsLTEwMzg3NzAxMD
-AsNDcyMDI5ODAzLDU3NTc1MTc4MCwyMDM3MDkwMzM4LC0yNzkw
-NDIzNTFdfQ==
+eyJoaXN0b3J5IjpbMjA4MDc4MjE4LDc3NDMxMzA3OCwxMTU2MT
+UxNDUxLDE1Mjk0MjA2NDgsLTE1OTk4NzIzMTAsLTgyMjU5Njk1
+MiwxODEzMDEzNzQ4LC0xNDgxMTQ1OTU1LC0xMDM4NzcwMTAwLD
+Q3MjAyOTgwMyw1NzU3NTE3ODAsMjAzNzA5MDMzOCwtMjc5MDQy
+MzUxXX0=
 -->
