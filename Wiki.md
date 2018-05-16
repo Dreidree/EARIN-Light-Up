@@ -2,12 +2,8 @@
 
 ## Introduction
 ### About the game 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lightup.PNG/200px-Lightup.PNG)](https://en.wikipedia.org/wiki/File:Lightup.PNG)
 
-Moderately difficult  _Light Up_puzzle ([solution](https://upload.wikimedia.org/wikipedia/commons/2/22/Lightup-solution.PNG "Lightup-solution.PNG"))
-
-**Light Up**  ([Japanese](https://en.wikipedia.org/wiki/Japanese_(language) "Japanese (language)"):美術館  _bijutsukan_, art gallery), also called  **Akari**, is a binary-determination  [logic puzzle](https://en.wikipedia.org/wiki/Logic_puzzle "Logic puzzle")  published by  [Nikoli](https://en.wikipedia.org/wiki/Nikoli_(publisher) "Nikoli (publisher)")
-
+**Light Up** is also called  **Akari**, is a binary-determination  (logic puzzle)  published by  Nikoli 
 # Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -147,5 +143,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODc3ODkxNCwtMjc5MDQyMzUxXX0=
+eyJoaXN0b3J5IjpbLTEyMDgzNjM0MzMsLTI3OTA0MjM1MV19
 -->
