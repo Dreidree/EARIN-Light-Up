@@ -5,6 +5,8 @@
 
 **Light Up** is also called  **Akari**, is a binary-determination  (logic puzzle)  published by  Nikoli - is a Japanese publisher that specializes in games and, especially, logic puzzles.
 
+**Rules**
+
 # Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -144,5 +146,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzA5MDMzOCwtMjc5MDQyMzUxXX0=
+eyJoaXN0b3J5IjpbLTEzMDE5OTM1NywyMDM3MDkwMzM4LC0yNz
+kwNDIzNTFdfQ==
 -->
