@@ -6,7 +6,7 @@
 **Light Up** is also called  **Akari**, is a binary-determination  (logic puzzle)  published by  Nikoli - is a Japanese publisher that specializes in games and, especially, logic puzzles.
 
 ### Rules
-Light Up is played on a rectangular grid of white and black cells. The player places light bulbs in white cells such that no two bubles are in the same column or row if they are not seperated by a wall(with or without number)
+Light Up is played on a rectangular grid of white and black cells. The player places light bulbs in white cells such that no two bubles are in the same column or row if they are not seperated by a wall(with or without number). Bulb eluminates cells in row and coum it is placed (until 
 
 
 # Files
@@ -148,6 +148,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMDI5ODAzLDU3NTc1MTc4MCwyMDM3MD
-kwMzM4LC0yNzkwNDIzNTFdfQ==
+eyJoaXN0b3J5IjpbLTEwMzg3NzAxMDAsNDcyMDI5ODAzLDU3NT
+c1MTc4MCwyMDM3MDkwMzM4LC0yNzkwNDIzNTFdfQ==
 -->
