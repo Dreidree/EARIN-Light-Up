@@ -12,9 +12,10 @@ An unnumered black cell may have any number of bulbs near.
 
 ### Solution methods
 
-
+A standard approach is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjU5Njk1MiwxODEzMDEzNzQ4LC0xND
-gxMTQ1OTU1LC0xMDM4NzcwMTAwLDQ3MjAyOTgwMyw1NzU3NTE3
-ODAsMjAzNzA5MDMzOCwtMjc5MDQyMzUxXX0=
+eyJoaXN0b3J5IjpbLTE1OTk4NzIzMTAsLTgyMjU5Njk1MiwxOD
+EzMDEzNzQ4LC0xNDgxMTQ1OTU1LC0xMDM4NzcwMTAwLDQ3MjAy
+OTgwMyw1NzU3NTE3ODAsMjAzNzA5MDMzOCwtMjc5MDQyMzUxXX
+0=
 -->
