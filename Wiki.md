@@ -10,12 +10,15 @@ Light Up is played on a rectangular grid of white and black cells. The player pl
 A black cell may have a number on it from 0 to 4 i, indicating how many bulbs must be placed adjacent to its four sides for example cell with number 3 must have 3 bulbs placed adjacent to its sides, and a cell with 0 cannoct have a bulb ext to any of its sides.
 An unnumered black cell may have any number of bulbs near. 
 
+
+
 ### Solution methods
 
 A standard approach is firstly to put bulbs around cell with number 4 or smaller but surrander with andother walls - places where is only one configuration, after that other cells with numbers are taken under consideration. 
-Another common technique is to look for a cell that is not yet lit and determine if there is only one possible cell in which bulb can be pla
+Another common technique is to look for a cell that is not yet lit and determine if there is only one possible cell in which bulb can be placed. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzE5Mjk5Miw3NzQzMTMwNzgsMTE1Nj
+eyJoaXN0b3J5IjpbMTQyMTY2NDk3OCw3NzQzMTMwNzgsMTE1Nj
 E1MTQ1MSwxNTI5NDIwNjQ4LC0xNTk5ODcyMzEwLC04MjI1OTY5
 NTIsMTgxMzAxMzc0OCwtMTQ4MTE0NTk1NSwtMTAzODc3MDEwMC
 w0NzIwMjk4MDMsNTc1NzUxNzgwLDIwMzcwOTAzMzgsLTI3OTA0
